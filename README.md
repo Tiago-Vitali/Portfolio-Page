@@ -1,2 +1,2 @@
-# Project_portfolio
- Python project portfolio
+# Portfolio_page
+This repository was created with the aim of developing a page to display my personal projects in a more elegant way. To build it, I downloaded a free template from the website https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ and made the necessary edits to the code. 
